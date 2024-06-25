@@ -1,4 +1,5 @@
-# hm-shopping
+# 黑马智慧商城（学习版）
+
 
 ## Project setup
 ```
